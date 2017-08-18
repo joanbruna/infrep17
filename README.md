@@ -1,17 +1,14 @@
 # Inference and Representation (DS-GA-1005, CSCI-GA.2569)
 #### *Course staff:*
-| | Name | E-mail (@cs.nyu.edu) |
+| | Name | E-mail  |
 |----------|---------------|----------------|
-|Instructor| [David Sontag](http://cs.nyu.edu/~dsontag/)        | dsontag           |
-|Instructor| [Joan Bruna](http://cims.nyu.edu/~bruna/)        | bruna        |
-|TA| [Rahul Krishnan](http://cs.nyu.edu/~rahul/) | rahul |
-|Grader| Aahlad Manas | apm470 {@/at} nyu.edu |
-|Grader| Alex Nowak | anv273 {@/at} nyu.edu |
+|Instructor| [Joan Bruna](http://cims.nyu.edu/~bruna/)  |  bruna@cims.nyu.edu        |
+|TA| Vlad Kobzar | vk283@nyu.edu |
 
 ##Syllabus
 This graduate level course presents fundamental tools of probabilistic graphical models, with an emphasis on designing and manipulating generative models, and performing inferential tasks when applied to various types of data. 
 
-We will study latent variable graphical models (Latent Dirichlet Allocation, Factor Analysis, Gaussian Processes), state-space models for time series (Kalman Filter, HMMs, ARMA), Gibbs Models, Deep generative models (Variational autoencoders, GANs), and causal inference, covering both the methods (exact/approximate inference, sampling algorithms, exponential families) and modeling applications to text, images and medical data.
+We will study latent graphical models (Latent Dirichlet Allocation, Factor Analysis, Gaussian Processes), state-space models for time series (Kalman Filter, HMMs, ARMA), Gibbs Models, Deep generative models (Variational autoencoders, GANs) covering both the methods (exact/approximate inference, sampling algorithms, exponential families) and modeling applications to text, images and medical data.
 
 ###Lecture Location
 Monday, 5:10-7:00pm, in Warren Weaver Hall 1302
