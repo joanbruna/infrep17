@@ -20,16 +20,16 @@ DS: Mondays, 10:00-11:00am. Location: 715 Broadway, 12th floor, room 1204.
 
 JB: Thursdays, 4:00-5:00pm. Location: 60 5th ave, 6th floor, room 612.
 
-###Grading
+### Grading
 problem sets (45%) + midterm exam (25%) + final project (25%) + participation (5%). 
 
-###Piazza 
+### Piazza 
 We will use [Piazza](http://piazza.com/nyu/fall2016/dsga1005csciga2569/home) to answer questions and post announcements about the course. Please sign up [here](http://piazza.com/nyu/fall2016/dsga1005csciga2569). Students' use of Piazza, particularly for adequately answering other students' questions, will contribute toward their participation grade.
 
-###Online recordings 
+### Online recordings 
 Most of the lectures and labs' videos will be posted to NYU Classes. Note, however, that class attendance is required.
 
-##Schedule
+## Schedule
 | Week        | Lecture Date           | Topic       |  Reference                    |  Deliverables  |
 | ---------------|----------------| ------------|---------------------------------|---------------|
 | 2 | 9/12  | **Lec1** Intro and Logistics. Bayesian Networks. [Slides](https://github.com/inf16nyu/home/blob/master/slides/lecture1.pdf) | Murphy [Chapter 1](http://www.cs.ubc.ca/~murphyk/MLbook/pml-intro-22may12.pdf) (optional; review for most)<br /><br />[Notes on Bayesian networks](https://people.eecs.berkeley.edu/~jordan/prelims/chapter2.pdf) (Sec. 2.1)<br /><br />[Algorithm for d-separation](http://pgm.stanford.edu/Algs/page-75.pdf) (optional)| [PS1](https://github.com/inf16nyu/home/blob/master/hw/ps1.pdf), due 9/19 |
@@ -49,7 +49,7 @@ Most of the lectures and labs' videos will be posted to NYU Classes. Note, howev
 |  | 12/13  | **Lec13** Modeling Images and high-dimensional data (contd). Deep Auto-regressive Models. Generative Adversarial Networks (GANs). [slides](https://github.com/inf16nyu/home/blob/master/slides/lecture13.pdf) | references in slides | [Project writeup](https://github.com/inf16nyu/home/blob/master/hw/project_writeup.pdf), due 12/16. |
 | 16 | 12/19 | **Final Day**  Poster Presentations of Final Projects <br /><br /> <b>Location: Center for Data Science, 60 5th ave, in the 7th floor open space</b> | | |
 
-###Bibliography
+### Bibliography
 There is no required book. Assigned readings will come from freely-available online material.
 #### Core Materials
   - Kevin Murphy, [Machine Learning: a Probabilistic Perspective](http://www.cs.ubc.ca/%7Emurphyk/MLbook/index.html), MIT Press, 2012. You can read this online for free from [NYU Libraries](http://site.ebrary.com/lib/nyulibrary/detail.action?docID=10597102). We recommend the latest (4th) printing, as earlier editions had many typos. You can tell which printing you have as follows: check the inside cover, below the "Library of Congress" information. If it says "10 9 8 ... 4" you've got the (correct) fourth print.
