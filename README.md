@@ -5,17 +5,17 @@
 |Instructor| [Joan Bruna](http://cims.nyu.edu/~bruna/)  |  bruna@cims.nyu.edu        |
 |TA| Vlad Kobzar | vk283@nyu.edu |
 
-##Syllabus
+### Syllabus
 This graduate level course presents fundamental tools of probabilistic graphical models, with an emphasis on designing and manipulating generative models, and performing inferential tasks when applied to various types of data. 
 
 We will study latent graphical models (Latent Dirichlet Allocation, Factor Analysis, Gaussian Processes), state-space models for time series (Kalman Filter, HMMs, ARMA), Gibbs Models, Deep generative models (Variational autoencoders, GANs) covering both the methods (exact/approximate inference, sampling algorithms, exponential families) and modeling applications to text, images and medical data.
 
-###Lecture Location
+### Lecture Location
 Monday, 5:10-7:00pm, in Warren Weaver Hall 1302
-###[Recitation/Laboratory](https://github.com/inf16nyu/home/tree/master/labs) (required for all students)
+### [Recitation/Laboratory](https://github.com/inf16nyu/home/tree/master/labs) (required for all students)
 Wednesdays, 7:10-8:00pm in [Meyer Hall of Physics](http://physics.as.nyu.edu/object/physics.directions) 121 
 
-###Office hours
+### Office hours
 DS: Mondays, 10:00-11:00am. Location: 715 Broadway, 12th floor, room 1204.
 
 JB: Thursdays, 4:00-5:00pm. Location: 60 5th ave, 6th floor, room 612.
