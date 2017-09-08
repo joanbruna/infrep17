@@ -11,9 +11,9 @@ This graduate level course presents fundamental tools of probabilistic graphical
 We will study latent graphical models (Latent Dirichlet Allocation, Gaussian Processes), state-space models for (Kalman Filter, HMMs), Gibbs Models, Deep generative models (Variational autoencoders, GANs) covering both the methods (inference, sampling algorithms, learning, exponential families) and modeling applications to text, images and physics data.
 
 ### Lecture Location
-Monday, 5:10-7:00pm, in Warren Weaver Hall 1302
+Monday, 6:20-8:00pm, in 60 FA 110
 ### [Recitation/Laboratory](https://github.com/inf16nyu/home/tree/master/labs) (required for all students)
-Wednesdays, 7:10-8:00pm in [Meyer Hall of Physics](http://physics.as.nyu.edu/object/physics.directions) 121 
+Wednesdays, 5:20-6:10pm in 60 FA 110
 
 ### Office hours
 JB: Monday, 10:00-11:00pm. Location: 60 5th ave, 6th floor, room 612.
@@ -22,7 +22,7 @@ JB: Monday, 10:00-11:00pm. Location: 60 5th ave, 6th floor, room 612.
 problem sets (45%) + midterm exam (25%) + final project (25%) + participation (5%). 
 
 ### Piazza 
-We will use [Piazza](http://piazza.com/nyu/fall2016/dsga1005csciga2569/home) to answer questions and post announcements about the course. Please sign up [here](http://piazza.com/nyu/fall2016/dsga1005csciga2569). Students' use of Piazza, particularly for adequately answering other students' questions, will contribute toward their participation grade.
+We will use [Piazza](https://piazza.com/class/j7ccyig9hwz1ze) to answer questions and post announcements about the course.  Students' use of Piazza, particularly for adequately answering other students' questions, will contribute toward their participation grade.
 
 ### Online recordings 
 Most of the lectures and labs' videos will be posted to NYU Classes. Note, however, that class attendance is required.
